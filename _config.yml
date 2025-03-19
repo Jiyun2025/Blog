@@ -300,7 +300,7 @@ defaults:
       toc_sticky: true
       sidebar: toc
       sidebar_position: right
-        nav: "counts"
+
 
 
 date_format: "%B %-d, %Y"
