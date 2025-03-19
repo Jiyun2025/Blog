@@ -108,7 +108,7 @@ author:
   avatar           : "assets/images/IMG_8910.JPG"
   bio              : "Specializing in Deep Learning & Machine Learning."
   location         : "NY, USA"
-  email            : "jc12818@nyu.edu"
+  email            : "mailto:jc12818@nyu.edu"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
