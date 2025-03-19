@@ -181,7 +181,8 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
+  syntax_highlighter_opts:
+    default_lang: mermaid
 
 # Sass/SCSS
 sass:
@@ -281,6 +282,7 @@ compress_html:
 
 
 # Defaults
+
 defaults:
   # _posts
   - scope:
@@ -294,9 +296,8 @@ defaults:
       share: true
       related: true
       show_date: true
-      toc : true
-      toc_sticky : true
-      toc_label : Contents
+      toc: true
+      toc_sticky: true
       sidebar:
         nav: "counts"
 
