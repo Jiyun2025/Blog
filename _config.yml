@@ -297,5 +297,8 @@ defaults:
       toc : true
       toc_sticky : true
       toc_label : Contents
+      sidebar:
+        - toc
+      sidebar_position: right
 
 date_format: "%B %-d, %Y"
