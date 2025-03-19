@@ -298,8 +298,6 @@ defaults:
       show_date: true
       toc: true
       toc_sticky: true
-      sidebar: toc
-      sidebar_position: right
 
 
 
